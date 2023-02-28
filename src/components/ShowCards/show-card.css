@@ -1,0 +1,33 @@
+.card {
+  margin: 0 1rem 3rem;
+  padding: 0;
+  box-shadow: 1px 1px 5px 0.5px rgba(0, 0, 0, 0.1);
+  border: none;
+}
+
+.img-flag {
+  height: 12rem;
+  object-fit: cover;
+  object-position: center;
+}
+
+.body-card {
+  border-radius: 0 0 4px 4px;
+}
+
+.country-name {
+  color: black;
+  font-weight: 800;
+}
+
+.parent-details {
+  margin-bottom: 2rem;
+}
+
+.details {
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+}
